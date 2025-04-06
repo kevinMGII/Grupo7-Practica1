@@ -3,10 +3,10 @@
 Este repositorio contiene nuestro desarrollo de la Práctica 1 de **Aprendizaje Automático**. A continuación se detallan los pasos necesarios para ejecutar el proyecto correctamente en Google Colab.
 
 ##  Estructura del proyecto
-- modelo_entrenamiento.ipynb: Notebook para el análisis exploratorio, preprocesamiento y entrenamiento del modelo.
-- modelo_final.ipynb: Notebook con el modelo final entrenado y preparado para hacer predicciones sobre el conjunto de test.
+- Grupo7_Practica1.ipynb. Notebook para el análisis exploratorio, preprocesamiento y entrenamiento del modelo.
+- Grupo7_Practica1_ModeloFinal.ipynb. Notebook con el modelo final entrenado y preparado para hacer predicciones sobre el conjunto de test.
 - attrition_availabledata_12.csv: Conjunto de datos de entrenamiento.
-- competition_competition_12.csv: Conjunto de datos de prueba para la competición.
+- attrition_competition_12.csv: Conjunto de datos de probar el modelo.
 
 ---
 
