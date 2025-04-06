@@ -26,3 +26,8 @@ Este repositorio contiene nuestro desarrollo de la Práctica 1 de **Aprendizaje 
 5. Se generará un archivo con las predicciones.csv.
 
 ---
+
+## Commits
+Como bien sabemos, Google Colab es un entorno en el que varios miembros de un grupo pueden trabajar de forma colaborativa.
+Es por ello que, todos los commits realizados, son un conjunto de cambios realizados por ambos miembros del grupo y, por tanto,
+la cantidad o calidad de los commits realizados por los miembros no es en absoluto representativa o útil.
